@@ -4,18 +4,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Leeds",
-            "logo": "https://media-sport.b-cdn.net/football/teams/63.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/63.png",
             "score": "4"
         },
         "away_team": {
             "name": "Bristol City",
-            "logo": "https://media-sport.b-cdn.net/football/teams/56.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/56.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/290425/lee.mp4?auth_key=1745896666-62e4de97eb9a410dbda21865afc3c118-0-a0078d83b46a038e940c1f357ac2750f"
+                "url": "https://hl.zone21-gx.store/hl/0425/290425/lee.mp4?auth_key=1745899991-09c549aec67d40dba77ac94fdedf97bb-0-fd17f7e98b6f41d95ce16944b074a5dc"
             }
         ]
     },
@@ -24,18 +24,18 @@
         "league": "Major League Soccer",
         "home_team": {
             "name": "Inter Miami",
-            "logo": "https://media-sport.b-cdn.net/football/teams/9568.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/9568.png",
             "score": "3"
         },
         "away_team": {
             "name": "FC Dallas",
-            "logo": "https://media-sport.b-cdn.net/football/teams/1597.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/1597.png",
             "score": "4"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/mia.mp4?auth_key=1745896667-68fe83ae84af4bdd9c5b46f90aaba077-0-76120d3ad5019d503524ce2ef448ed0b"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/mia.mp4?auth_key=1745899992-1cbed971135b42f5a486ee491c01fd82-0-c7ec3f984d0a7174ae289275734fefc4"
             }
         ]
     },
@@ -44,18 +44,18 @@
         "league": "Serie A",
         "home_team": {
             "name": "Napoli",
-            "logo": "https://media-sport.b-cdn.net/football/teams/492.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/492.png",
             "score": "2"
         },
         "away_team": {
             "name": "Torino",
-            "logo": "https://media-sport.b-cdn.net/football/teams/503.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/503.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/nap.mp4?auth_key=1745896668-637231c169c64b569a6661e2e95d10bd-0-670ce95df3867223edf7cc46cbb92ca8"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/nap.mp4?auth_key=1745899993-5c6a74e3a08341de936601b7425635fd-0-f939f766de4af39da47220a79f07d778"
             }
         ]
     },
@@ -64,18 +64,18 @@
         "league": "Serie A",
         "home_team": {
             "name": "Juventus",
-            "logo": "https://media-sport.b-cdn.net/football/teams/496.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/496.png",
             "score": "2"
         },
         "away_team": {
             "name": "Monza",
-            "logo": "https://media-sport.b-cdn.net/football/teams/1579.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/1579.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/juv.mp4?auth_key=1745896669-500c4fba8c304a81a6fde5fdc6fafd91-0-4fe68c805d7c6dd931f6bbddc495997d"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/juv.mp4?auth_key=1745899994-f3f3d2385be2425db03b1cca27305d2e-0-cd04bd641a225116d7c3761d6fc24559"
             }
         ]
     },
@@ -84,18 +84,18 @@
         "league": "FA Cup",
         "home_team": {
             "name": "Nottingham Forest",
-            "logo": "https://media-sport.b-cdn.net/football/teams/65.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/65.png",
             "score": "0"
         },
         "away_team": {
             "name": "Manchester City",
-            "logo": "https://media-sport.b-cdn.net/football/teams/50.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/50.png",
             "score": "2"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/mc.mp4?auth_key=1745896670-d0855e3384ac48539c955914243aea49-0-df090e6f78fb0dc6064f8d2c270eeba7"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/mc.mp4?auth_key=1745899995-9f6d53695c8248db87ad1b7a05ed7eb9-0-d8e9f6ae7bcc65acb53d8a8f096224af"
             }
         ]
     },
@@ -104,18 +104,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Liverpool",
-            "logo": "https://media-sport.b-cdn.net/football/teams/40.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/40.png",
             "score": "5"
         },
         "away_team": {
             "name": "Tottenham",
-            "logo": "https://media-sport.b-cdn.net/football/teams/47.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/47.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/liv.mp4?auth_key=1745896672-5c06cb968f034b6e979413026e7ad549-0-fd410922124f06cf11f6a5db066f0cae"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/liv.mp4?auth_key=1745899996-10351575fcbe4e819217fe5ed5176229-0-7a74eb23962a01d4451779fe6e7eac9f"
             }
         ]
     },
@@ -124,18 +124,18 @@
         "league": "Bundesliga",
         "home_team": {
             "name": "Werder Bremen",
-            "logo": "https://media-sport.b-cdn.net/football/teams/162.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/162.png",
             "score": "0"
         },
         "away_team": {
             "name": "FC St. Pauli",
-            "logo": "https://media-sport.b-cdn.net/football/teams/186.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/186.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/wer.mp4?auth_key=1745896673-30e2aaa62c824af881cd3ee99cd39115-0-6e946a30590450d780616660a4778a20"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/wer.mp4?auth_key=1745899997-8b2433582b074091b2f3fd61af8a20d8-0-95c4315632a1ad7209dcc1e863cae868"
             }
         ]
     },
@@ -144,18 +144,18 @@
         "league": "Bundesliga",
         "home_team": {
             "name": "VfL Bochum",
-            "logo": "https://media-sport.b-cdn.net/football/teams/176.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/176.png",
             "score": "1"
         },
         "away_team": {
             "name": "Union Berlin",
-            "logo": "https://media-sport.b-cdn.net/football/teams/182.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/182.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/vfl.mp4?auth_key=1745896674-f966eec5861c4967952e2e653a816958-0-bae1574375b63c803caddb209f0efc8e"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/vfl.mp4?auth_key=1745899998-b80c92271cb347c29820904ba948b7b2-0-da163f0d22c6c9f99455a2170fa713f2"
             }
         ]
     },
@@ -164,18 +164,18 @@
         "league": "Serie A",
         "home_team": {
             "name": "Inter",
-            "logo": "https://media-sport.b-cdn.net/football/teams/505.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/505.png",
             "score": "0"
         },
         "away_team": {
             "name": "AS Roma",
-            "logo": "https://media-sport.b-cdn.net/football/teams/497.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/497.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/int.mp4?auth_key=1745896675-0db300205cd745609c5167de9b8d6dc9-0-11b03e9df913cf955a3aa438e50fb293"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/int.mp4?auth_key=1745899999-bf52d132639a487695bc04953e90ffd1-0-7361d7b6691e5209b70391229247ada4"
             }
         ]
     },
@@ -184,18 +184,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Bournemouth",
-            "logo": "https://media-sport.b-cdn.net/football/teams/35.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/35.png",
             "score": "1"
         },
         "away_team": {
             "name": "Manchester United",
-            "logo": "https://media-sport.b-cdn.net/football/teams/33.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/33.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/man.mp4?auth_key=1745896676-1861dd3ca69741cd94fb887f319f6852-0-becc91730e1160b62e78e47a17f06775"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/man.mp4?auth_key=1745900000-65c085d5279d496fba624a19117bac14-0-477d3b63e5399032dd819f2e83ed8bee"
             }
         ]
     },
@@ -204,18 +204,18 @@
         "league": "2. Bundesliga",
         "home_team": {
             "name": "Hannover 96",
-            "logo": "https://media-sport.b-cdn.net/football/teams/166.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/166.png",
             "score": "1"
         },
         "away_team": {
             "name": "1.FC Köln",
-            "logo": "https://media-sport.b-cdn.net/football/teams/192.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/192.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/han.mp4?auth_key=1745896678-7583269fedfc425bac378a4e7cf73c37-0-8690ddabac660889e2e84491687da7e5"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/han.mp4?auth_key=1745900001-a254fe6a867d455b98dcb2a10082d936-0-c136987882a2f6bf7cbb253327577f30"
             }
         ]
     },
@@ -224,18 +224,18 @@
         "league": "Copa del Rey",
         "home_team": {
             "name": "Barcelona",
-            "logo": "https://media-sport.b-cdn.net/football/teams/529.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/529.png",
             "score": "3"
         },
         "away_team": {
             "name": "Real Madrid",
-            "logo": "https://media-sport.b-cdn.net/football/teams/541.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/541.png",
             "score": "2"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/rea.mp4?auth_key=1745896679-bfe1ba7e385a45cc80a36a80b9b11345-0-ca2dff190c7b8ffc779cf127b2fdc960"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/rea.mp4?auth_key=1745900002-25c800205fc24adf92ef68cea8dea462-0-34ec03ed79ed5732d1ab7d4fecf1cc4c"
             }
         ]
     },
@@ -244,18 +244,18 @@
         "league": "AFC Champions League",
         "home_team": {
             "name": "Yokohama F. Marinos",
-            "logo": "https://media-sport.b-cdn.net/football/teams/296.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/296.png",
             "score": "1"
         },
         "away_team": {
             "name": "Al-Nassr",
-            "logo": "https://media-sport.b-cdn.net/football/teams/2939.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/2939.png",
             "score": "4"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/nas.mp4?auth_key=1745896679-35cd12375e5d4c0b83e9517f65347e94-0-758ce9d0def7845c8a9ab82504012033"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/nas.mp4?auth_key=1745900002-58379cdf802f460295ccec39f0fac163-0-eef38eec2e9ec69d9de4041cf68c04b6"
             }
         ]
     },
@@ -264,18 +264,18 @@
         "league": "2. Bundesliga",
         "home_team": {
             "name": "Fortuna Düsseldorf",
-            "logo": "https://media-sport.b-cdn.net/football/teams/158.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/158.png",
             "score": "3"
         },
         "away_team": {
             "name": "1. FC Nürnberg",
-            "logo": "https://media-sport.b-cdn.net/football/teams/171.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/171.png",
             "score": "3"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/for.mp4?auth_key=1745896680-ffcd4bb231fb41e291aaf4fcb0266d93-0-0131a8a1344c3e03d5a25c4c4e18ab44"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/for.mp4?auth_key=1745900004-3466553859864a9db9a86ca233665402-0-bca6342b71b2e03f529ba87b902d040e"
             }
         ]
     },
@@ -284,18 +284,18 @@
         "league": "Bundesliga",
         "home_team": {
             "name": "Eintracht Frankfurt",
-            "logo": "https://media-sport.b-cdn.net/football/teams/169.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/169.png",
             "score": "4"
         },
         "away_team": {
             "name": "RB Leipzig",
-            "logo": "https://media-sport.b-cdn.net/football/teams/173.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/173.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/ein.mp4?auth_key=1745896681-7ceeec1fd52c4872a0f842b1c4454dc1-0-95fd26aa0dcba40e72d45a1073dd4e3b"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/ein.mp4?auth_key=1745900005-6646cb5d6a4643d7ab91f27dd2478f9a-0-5f616580952e509b889c699de5b5be42"
             }
         ]
     },
@@ -304,18 +304,18 @@
         "league": "FA Cup",
         "home_team": {
             "name": "Crystal Palace",
-            "logo": "https://media-sport.b-cdn.net/football/teams/52.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/52.png",
             "score": "3"
         },
         "away_team": {
             "name": "Aston Villa",
-            "logo": "https://media-sport.b-cdn.net/football/teams/66.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/66.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/cry.mp4?auth_key=1745896682-05f9d92e0ba44418bd739c0199208128-0-17f4071bd6bc1671d41bd5584390b149"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/cry.mp4?auth_key=1745900006-9704f9a19fb74386b5551aacd0609b8e-0-7912ccff2496b467eb28c2139b783f1e"
             }
         ]
     },
@@ -324,18 +324,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Brighton",
-            "logo": "https://media-sport.b-cdn.net/football/teams/51.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/51.png",
             "score": "3"
         },
         "away_team": {
             "name": "West Ham",
-            "logo": "https://media-sport.b-cdn.net/football/teams/48.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/48.png",
             "score": "2"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/bri.mp4?auth_key=1745896683-20354de1cedc42aab88d8ca291a7cad9-0-f197f33ed23fb591b518c37e3f734ef2"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/bri.mp4?auth_key=1745900007-b2b277ae68484cfd978400fb7c9eb8e1-0-569ac1c2517b5e7d275aaca9d663028c"
             }
         ]
     },
@@ -344,18 +344,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Oxford United",
-            "logo": "https://media-sport.b-cdn.net/football/teams/1338.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/1338.png",
             "score": "2"
         },
         "away_team": {
             "name": "Sunderland",
-            "logo": "https://media-sport.b-cdn.net/football/teams/746.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/746.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/oxf.mp4?auth_key=1745896685-1393e7e4839544d2b88944cc6784a3dc-0-14acdf3473e2d48afbd48ee09843aa04"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/oxf.mp4?auth_key=1745900008-683f9e9c67944342a0592a6e84a55af3-0-016bc19ecbb7baa4a4b087df7ab96358"
             }
         ]
     },
@@ -364,18 +364,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Southampton",
-            "logo": "https://media-sport.b-cdn.net/football/teams/41.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/41.png",
             "score": "1"
         },
         "away_team": {
             "name": "Fulham",
-            "logo": "https://media-sport.b-cdn.net/football/teams/36.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/36.png",
             "score": "2"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/sou.mp4?auth_key=1745896686-c188e715a3c542a1a5b8ab593a62fb74-0-8d495e9a1d5737ba60594edb82ae620d"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/sou.mp4?auth_key=1745900009-f94a1e41d5c1452cad6ebeaecbbdb93a-0-c458492dc65a4c4da83b0425a7e6881c"
             }
         ]
     },
@@ -384,18 +384,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Sheffield Wednesday",
-            "logo": "https://media-sport.b-cdn.net/football/teams/74.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/74.png",
             "score": "1"
         },
         "away_team": {
             "name": "Portsmouth",
-            "logo": "https://media-sport.b-cdn.net/football/teams/1355.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/1355.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/por.mp4?auth_key=1745896687-8a873b2bb6af48fe9389fcef07aaf9c6-0-b7ee9cdfba97101d336406fe7c7e842f"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/por.mp4?auth_key=1745900010-04cd8f885e0147559f3b28f31b6357f3-0-3ea7ccd3e623acd208360e1e36e7b315"
             }
         ]
     },
@@ -404,18 +404,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Millwall",
-            "logo": "https://media-sport.b-cdn.net/football/teams/58.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/58.png",
             "score": "1"
         },
         "away_team": {
             "name": "Swansea",
-            "logo": "https://media-sport.b-cdn.net/football/teams/76.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/76.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/mil.mp4?auth_key=1745896688-ce830768759f4b44b6ce968bcaab300b-0-d2915d83791ef98a7a3965fed828af3c"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/mil.mp4?auth_key=1745900011-f8af08f68da14d028d5ef497e42346d5-0-9e502dd293385aa114cb8ec8639382fc"
             }
         ]
     },
@@ -424,18 +424,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Blackburn",
-            "logo": "https://media-sport.b-cdn.net/football/teams/67.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/67.png",
             "score": "2"
         },
         "away_team": {
             "name": "Watford",
-            "logo": "https://media-sport.b-cdn.net/football/teams/38.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/38.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/bla.mp4?auth_key=1745896689-c5ff45368c8b4ff78e3a45d887831846-0-387a7986e97829f95e63240995e92036"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/bla.mp4?auth_key=1745900012-9b7d28ed35eb4c5aaa96575b5f154d29-0-5f8b45f39fed17e0ac333896879110ab"
             }
         ]
     },
@@ -444,18 +444,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Cardiff",
-            "logo": "https://media-sport.b-cdn.net/football/teams/43.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/43.png",
             "score": "0"
         },
         "away_team": {
             "name": "West Brom",
-            "logo": "https://media-sport.b-cdn.net/football/teams/60.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/60.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/car.mp4?auth_key=1745896690-efc7341d7604478d833cb078cb155d60-0-d6d3907fa241608af5974f7b5f3fa400"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/car.mp4?auth_key=1745900013-ca7a86832a78444fab3ba1ed7253c5d9-0-c9a8ec78bdb9d28dd90e76cd8d7b9e2b"
             }
         ]
     },
@@ -464,18 +464,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Newcastle",
-            "logo": "https://media-sport.b-cdn.net/football/teams/34.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/34.png",
             "score": "3"
         },
         "away_team": {
             "name": "Ipswich",
-            "logo": "https://media-sport.b-cdn.net/football/teams/57.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/57.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/new.mp4?auth_key=1745896692-e789bc7b5a6b4b75aaf67c5e86807471-0-32e87328b6b2b122b97013d0883e9858"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/new.mp4?auth_key=1745900014-aca3dbf18f5d477189c9fd566a27f67b-0-a0251d6c5b6bfdcce513014543099076"
             }
         ]
     },
@@ -484,18 +484,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Middlesbrough",
-            "logo": "https://media-sport.b-cdn.net/football/teams/70.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/70.png",
             "score": "0"
         },
         "away_team": {
             "name": "Norwich",
-            "logo": "https://media-sport.b-cdn.net/football/teams/71.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/71.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/mid.mp4?auth_key=1745896693-901a0e81e8dc4f0b935aab9513747ea5-0-cc8379c8ace412335db6f07b95cea057"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/mid.mp4?auth_key=1745900015-069cd54bb2cc40e6b2de3486563b37ab-0-47bb973c916b6c0f16a0ad84996ae01b"
             }
         ]
     },
@@ -504,18 +504,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Hull City",
-            "logo": "https://media-sport.b-cdn.net/football/teams/64.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/64.png",
             "score": "0"
         },
         "away_team": {
             "name": "Derby",
-            "logo": "https://media-sport.b-cdn.net/football/teams/69.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/69.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/hul.mp4?auth_key=1745896694-34b2c34e5b69404f8656048863e1365b-0-1e3a173ff3cba117631668a1f50a129c"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/hul.mp4?auth_key=1745900016-4352028f8dc5450899daeae3bb8e07f1-0-1847e238036f8266988708e2671716e3"
             }
         ]
     },
@@ -524,18 +524,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Wolves",
-            "logo": "https://media-sport.b-cdn.net/football/teams/39.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/39.png",
             "score": "3"
         },
         "away_team": {
             "name": "Leicester",
-            "logo": "https://media-sport.b-cdn.net/football/teams/46.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/46.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/wol.mp4?auth_key=1745896695-bdc27f7ed6d441e3b153c1d627d6f15c-0-6a31a2e3abe9f6cb1df5b2738596ad63"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/wol.mp4?auth_key=1745900017-e7a30601975d4837881d003550080008-0-f37f958f56d724cbda566f1f97e74994"
             }
         ]
     },
@@ -544,18 +544,18 @@
         "league": "Bundesliga",
         "home_team": {
             "name": "1899 Hoffenheim",
-            "logo": "https://media-sport.b-cdn.net/football/teams/167.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/167.png",
             "score": "2"
         },
         "away_team": {
             "name": "Borussia Dortmund",
-            "logo": "https://media-sport.b-cdn.net/football/teams/165.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/165.png",
             "score": "3"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/bvb.mp4?auth_key=1745896696-be64d635e1e54946ae7cb4f7a56d1a34-0-c2c04fe1936fd660247afda789277ecb"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/bvb.mp4?auth_key=1745900019-a1dbacc158c64c5a87174309720d7e7c-0-b92043dea152ab042eab70df90421717"
             }
         ]
     },
@@ -564,18 +564,18 @@
         "league": "Bundesliga",
         "home_team": {
             "name": "Bayern München",
-            "logo": "https://media-sport.b-cdn.net/football/teams/157.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/157.png",
             "score": "3"
         },
         "away_team": {
             "name": "FSV Mainz 05",
-            "logo": "https://media-sport.b-cdn.net/football/teams/164.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/164.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/bay.mp4?auth_key=1745896697-aba09283861144259812a8d17036a0f7-0-641882d27292f7e059b64c4cb993f481"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/bay.mp4?auth_key=1745900020-22d0220fc98d497e9979bc01dbc68b5e-0-be075f52a250b12741df547965cc6f87"
             }
         ]
     },
@@ -584,18 +584,18 @@
         "league": "Bundesliga",
         "home_team": {
             "name": "Bayer Leverkusen",
-            "logo": "https://media-sport.b-cdn.net/football/teams/168.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/168.png",
             "score": "2"
         },
         "away_team": {
             "name": "FC Augsburg",
-            "logo": "https://media-sport.b-cdn.net/football/teams/170.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/170.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/b04.mp4?auth_key=1745896698-51aac3d9d17a4325a2543b38a37bafb0-0-9b65f266e2f24ac2208bbbe6960fe85c"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/b04.mp4?auth_key=1745900021-566df1575d3742e38aa5a905cdd86594-0-2f53a954ecd75ecda0836409b647e3b8"
             }
         ]
     },
@@ -604,18 +604,18 @@
         "league": "Bundesliga",
         "home_team": {
             "name": "Holstein Kiel",
-            "logo": "https://media-sport.b-cdn.net/football/teams/191.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/191.png",
             "score": "4"
         },
         "away_team": {
             "name": "Borussia Mönchengladbach",
-            "logo": "https://media-sport.b-cdn.net/football/teams/163.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/163.png",
             "score": "3"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/280425/hol.mp4?auth_key=1745896699-3d35b7f271d84ed1b8dc6e70f6dc0830-0-11829ebe881a172b58f2e2910bddd71e"
+                "url": "https://hl.zone21-gx.store/hl/0425/280425/hol.mp4?auth_key=1745900022-05b39e11c3aa49caa10040719741ffa8-0-ad70691198cbaae6bf5bff0ac084bdaa"
             }
         ]
     },
@@ -624,18 +624,18 @@
         "league": "Championship",
         "home_team": {
             "name": "QPR",
-            "logo": "https://media-sport.b-cdn.net/football/teams/72.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/72.png",
             "score": "0"
         },
         "away_team": {
             "name": "Burnley",
-            "logo": "https://media-sport.b-cdn.net/football/teams/44.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/44.png",
             "score": "5"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/bur.mp4?auth_key=1745896700-1d200acce7414610a36f0ef7d1284f43-0-1657a4043a5ecefe98a8820b902da689"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/bur.mp4?auth_key=1745900023-2d5ba0a90d3448769c59b73fbc0a92b4-0-eb63bf3db745c25a9bb4c8a214bf5cc3"
             }
         ]
     },
@@ -644,18 +644,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Luton",
-            "logo": "https://media-sport.b-cdn.net/football/teams/1359.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/1359.png",
             "score": "1"
         },
         "away_team": {
             "name": "Coventry",
-            "logo": "https://media-sport.b-cdn.net/football/teams/1346.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/1346.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/lut.mp4?auth_key=1745896701-5c2f8e6d5f8342be943b188ab0f61793-0-d9c84745649de1d9832b91b2ba1a11a5"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/lut.mp4?auth_key=1745900024-12bf01c752444579908f2574c3a543c9-0-b4e40019924a2f8d935838242308874c"
             }
         ]
     },
@@ -664,18 +664,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Chelsea",
-            "logo": "https://media-sport.b-cdn.net/football/teams/49.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/49.png",
             "score": "1"
         },
         "away_team": {
             "name": "Everton",
-            "logo": "https://media-sport.b-cdn.net/football/teams/45.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/45.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/che.mp4?auth_key=1745896702-0430f219e25c4fafaa27254f8391c6ce-0-bfc02168a1284a25bfad499011495f53"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/che.mp4?auth_key=1745900025-2baa3336dd234057b2d90c83fef81938-0-0b69720e71fed3efff789539f7a8ff54"
             }
         ]
     },
@@ -684,18 +684,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Stoke City",
-            "logo": "https://media-sport.b-cdn.net/football/teams/75.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/75.png",
             "score": "0"
         },
         "away_team": {
             "name": "Sheffield Utd",
-            "logo": "https://media-sport.b-cdn.net/football/teams/62.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/62.png",
             "score": "2"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/sto.mp4?auth_key=1745896703-af6f7faba5cb4ddd95fe2dc8cd41c682-0-369f2f0018042814a8646ecdd6fbbf70"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/sto.mp4?auth_key=1745900026-bf0a9fecef924cd0ab102b4752090e41-0-4530caf6e360896b9cb5fd928f121d0d"
             }
         ]
     },
@@ -704,18 +704,18 @@
         "league": "Bundesliga",
         "home_team": {
             "name": "VfB Stuttgart",
-            "logo": "https://media-sport.b-cdn.net/football/teams/172.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/172.png",
             "score": "0"
         },
         "away_team": {
             "name": "1. FC Heidenheim",
-            "logo": "https://media-sport.b-cdn.net/football/teams/180.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/180.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/270425/vfb.mp4?auth_key=1745896704-267f57bf44aa40fa9222f6f8a2bc2e9f-0-b11e2e3663cab8db4e757e45c6e4ea62"
+                "url": "https://hl.zone21-gx.store/hl/0425/270425/vfb.mp4?auth_key=1745900027-e7050ace3b8b4ff9a08293a2807e1cfa-0-593ef356775377e72c6a6d41fd8d38c6"
             }
         ]
     },
@@ -724,18 +724,18 @@
         "league": "La Liga",
         "home_team": {
             "name": "Atletico Madrid",
-            "logo": "https://media-sport.b-cdn.net/football/teams/530.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/530.png",
             "score": "3"
         },
         "away_team": {
             "name": "Rayo Vallecano",
-            "logo": "https://media-sport.b-cdn.net/football/teams/728.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/728.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/250425/atl.mp4?auth_key=1745896706-e226ed1faa9a458fa6a34d58cd12d77c-0-8eb86434c1b5b569840fccf1f9912af7"
+                "url": "https://hl.zone21-gx.store/hl/0425/250425/atl.mp4?auth_key=1745900028-a073a44be29741fe9a049912ca8937b1-0-fdeb6244f8d106b9240114c89e48c6ae"
             }
         ]
     },
@@ -744,18 +744,18 @@
         "league": "La Liga",
         "home_team": {
             "name": "Real Betis",
-            "logo": "https://media-sport.b-cdn.net/football/teams/543.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/543.png",
             "score": "5"
         },
         "away_team": {
             "name": "Valladolid",
-            "logo": "https://media-sport.b-cdn.net/football/teams/720.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/720.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/250425/rea.mp4?auth_key=1745896707-4bed7febc7a54a15a46032a2b5e75bdc-0-2c6f7b9bf9ffc4b6a204915878fdb16d"
+                "url": "https://hl.zone21-gx.store/hl/0425/250425/rea.mp4?auth_key=1745900029-70499a7589b944ff83e520af5840182d-0-eb3e47bc98604abb2e52bd2f78fc34f2"
             }
         ]
     },
@@ -764,18 +764,18 @@
         "league": "La Liga",
         "home_team": {
             "name": "Alaves",
-            "logo": "https://media-sport.b-cdn.net/football/teams/542.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/542.png",
             "score": "1"
         },
         "away_team": {
             "name": "Real Sociedad",
-            "logo": "https://media-sport.b-cdn.net/football/teams/548.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/548.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/240425/ala.mp4?auth_key=1745896708-6d3dfecd021e4a5e9f45225219817343-0-c5079ec87bbb4252e4ad794ffbab6840"
+                "url": "https://hl.zone21-gx.store/hl/0425/240425/ala.mp4?auth_key=1745900030-d415e5ac77f840498e12e3a3ff1b4370-0-78b6d30e40f73eb793a4fead5627f116"
             }
         ]
     },
@@ -784,18 +784,18 @@
         "league": "La Liga",
         "home_team": {
             "name": "Getafe",
-            "logo": "https://media-sport.b-cdn.net/football/teams/546.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/546.png",
             "score": "0"
         },
         "away_team": {
             "name": "Real Madrid",
-            "logo": "https://media-sport.b-cdn.net/football/teams/541.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/541.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/240425/rea.mp4?auth_key=1745896709-a5a2dd07aef546b0a4372a62de7b1d3b-0-7261e1eaa1656ab38b30d2cadb90a9ce"
+                "url": "https://hl.zone21-gx.store/hl/0425/240425/rea.mp4?auth_key=1745900031-2c4d556cf5e04d7899c37af5610a9dd3-0-4283419e644e341ac4d2f0caa1a50f5e"
             }
         ]
     },
@@ -804,18 +804,18 @@
         "league": "Coppa Italia",
         "home_team": {
             "name": "Inter",
-            "logo": "https://media-sport.b-cdn.net/football/teams/505.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/505.png",
             "score": "0"
         },
         "away_team": {
             "name": "AC Milan",
-            "logo": "https://media-sport.b-cdn.net/football/teams/489.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/489.png",
             "score": "3"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/240425/int.mp4?auth_key=1745896710-23b3bd8d6fb8498597c2c0d0c25e4c3f-0-a0bc7a39746f360a9699c6ac9916da32"
+                "url": "https://hl.zone21-gx.store/hl/0425/240425/int.mp4?auth_key=1745900032-f3211fd075b349988fdf3b9698557221-0-142bf92c8ff3fda2c223378b0ce2221a"
             }
         ]
     },
@@ -824,18 +824,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Arsenal",
-            "logo": "https://media-sport.b-cdn.net/football/teams/42.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/42.png",
             "score": "2"
         },
         "away_team": {
             "name": "Crystal Palace",
-            "logo": "https://media-sport.b-cdn.net/football/teams/52.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/52.png",
             "score": "2"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/240425/ars.mp4?auth_key=1745896711-8d2f88d52a504558b3465a4454ac1adf-0-10f480e35c10d50177c1f32905b9d74b"
+                "url": "https://hl.zone21-gx.store/hl/0425/240425/ars.mp4?auth_key=1745900033-3f261cdf9b654ef2a7c1707fb089ce76-0-c6698741b86714a7ddb25623a4512f6a"
             }
         ]
     },
@@ -844,18 +844,18 @@
         "league": "La Liga",
         "home_team": {
             "name": "Barcelona",
-            "logo": "https://media-sport.b-cdn.net/football/teams/529.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/529.png",
             "score": "1"
         },
         "away_team": {
             "name": "Mallorca",
-            "logo": "https://media-sport.b-cdn.net/football/teams/798.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/798.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/230425/bar.mp4?auth_key=1745896712-f60d1956f7f648dcb0f5d6afffafa6c3-0-4b3de5dd4835616596186541dfaf3c45"
+                "url": "https://hl.zone21-gx.store/hl/0425/230425/bar.mp4?auth_key=1745900033-cf47706129ec4b3185fabc187d1283e1-0-e0c08c7e6cf06e73aeee3961003d8a68"
             }
         ]
     },
@@ -864,18 +864,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Manchester City",
-            "logo": "https://media-sport.b-cdn.net/football/teams/50.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/50.png",
             "score": "2"
         },
         "away_team": {
             "name": "Aston Villa",
-            "logo": "https://media-sport.b-cdn.net/football/teams/66.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/66.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/230425/mc.mp4?auth_key=1745896713-d99b2ae7aeb84fadbf8c6e9ad4de2761-0-f91726cb017f93e0aa8f0dcc17f7fc1b"
+                "url": "https://hl.zone21-gx.store/hl/0425/230425/mc.mp4?auth_key=1745900035-d550cbc929b44c05acc87479b064b576-0-573368afd8e9d708424975dd5af4fcad"
             }
         ]
     },
@@ -884,18 +884,18 @@
         "league": "Premier League",
         "home_team": {
             "name": "Tottenham",
-            "logo": "https://media-sport.b-cdn.net/football/teams/47.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/47.png",
             "score": "1"
         },
         "away_team": {
             "name": "Nottingham Forest",
-            "logo": "https://media-sport.b-cdn.net/football/teams/65.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/65.png",
             "score": "2"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/220425/tot.mp4?auth_key=1745896714-747e5b0f12054e988a9dcf717bc2f4ad-0-3f4c6f03a86d42177e1051690022083c"
+                "url": "https://hl.zone21-gx.store/hl/0425/220425/tot.mp4?auth_key=1745900036-d9b33f5391764f3f8d3efa62a2299104-0-53fd9a08b86045220391d63368088858"
             }
         ]
     },
@@ -904,18 +904,18 @@
         "league": "La Liga",
         "home_team": {
             "name": "Girona",
-            "logo": "https://media-sport.b-cdn.net/football/teams/547.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/547.png",
             "score": "1"
         },
         "away_team": {
             "name": "Real Betis",
-            "logo": "https://media-sport.b-cdn.net/football/teams/543.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/543.png",
             "score": "3"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/220425/rea.mp4?auth_key=1745896715-a4adebfa4d4a452593bcdef601c99c6a-0-6fc02ff907edcac1d1d69cb9d7ae6c72"
+                "url": "https://hl.zone21-gx.store/hl/0425/220425/rea.mp4?auth_key=1745900037-4d18ec07507e42d6a4b54c2769aa861b-0-5da1c913ce05e280f68ce3d2f2017ffd"
             }
         ]
     },
@@ -924,18 +924,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Burnley",
-            "logo": "https://media-sport.b-cdn.net/football/teams/44.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/44.png",
             "score": "2"
         },
         "away_team": {
             "name": "Sheffield Utd",
-            "logo": "https://media-sport.b-cdn.net/football/teams/62.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/62.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/220425/bur.mp4?auth_key=1745896716-a41c5270f0cb4406a498809db9680e25-0-d89bdff4836c8ce9870a71ba0b01a1f2"
+                "url": "https://hl.zone21-gx.store/hl/0425/220425/bur.mp4?auth_key=1745900038-b8808119ee0843f5afbe55690b5f7e7a-0-d2d38da41b24e188b3b1b7cd983fdf5c"
             }
         ]
     },
@@ -944,18 +944,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Leeds",
-            "logo": "https://media-sport.b-cdn.net/football/teams/63.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/63.png",
             "score": "6"
         },
         "away_team": {
             "name": "Stoke City",
-            "logo": "https://media-sport.b-cdn.net/football/teams/75.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/75.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/220425/lee.mp4?auth_key=1745896717-4f45bb3baa70447ab432d32e3c6d3b26-0-9f09304a0d4c62501ac58469af28da9a"
+                "url": "https://hl.zone21-gx.store/hl/0425/220425/lee.mp4?auth_key=1745900039-f6360cd665104ae0aa52dff2c21e08b0-0-ea8ba530d2f8990e05f5a66dcc3738e7"
             }
         ]
     },
@@ -964,18 +964,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Portsmouth",
-            "logo": "https://media-sport.b-cdn.net/football/teams/1355.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/1355.png",
             "score": "1"
         },
         "away_team": {
             "name": "Watford",
-            "logo": "https://media-sport.b-cdn.net/football/teams/38.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/38.png",
             "score": "0"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/220425/por.mp4?auth_key=1745896719-26bd05c98d474a2e9a8da87813aec100-0-9112c136a014349a8126c9b1879fc673"
+                "url": "https://hl.zone21-gx.store/hl/0425/220425/por.mp4?auth_key=1745900040-3da03cf47a5844f5a9f1223493cd5e26-0-d08690bf3a16903829051053e1aa803b"
             }
         ]
     },
@@ -984,18 +984,18 @@
         "league": "Championship",
         "home_team": {
             "name": "Sheffield Wednesday",
-            "logo": "https://media-sport.b-cdn.net/football/teams/74.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/74.png",
             "score": "2"
         },
         "away_team": {
             "name": "Middlesbrough",
-            "logo": "https://media-sport.b-cdn.net/football/teams/70.png?width=20&height=20",
+            "logo": "https://media-sport.b-cdn.net/football/teams/70.png",
             "score": "1"
         },
         "video_link": [
             {
                 "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0425/220425/she.mp4?auth_key=1745896720-52a3e9623e56461f80714aa0c17df909-0-0c35ef1aed8aead4c7f42ef622e787d9"
+                "url": "https://hl.zone21-gx.store/hl/0425/220425/she.mp4?auth_key=1745900041-876f062755714009b9b820bb95598c2a-0-d439f0fd129c72b8aef2ae7b5996b350"
             }
         ]
     }
