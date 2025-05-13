@@ -15,7 +15,7 @@
         "video_link": [
             {
                 "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1746990000-7800.mp4/index.m3u8?auth_key=1747092768-4ec2904dc4a2475c8c8e0bd6aa9d4d6a-0-3bd828c5039edc6b008bd31680af9541"
+                "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1746990000-7800.mp4/index.m3u8?auth_key=1747096817-33c26483393d479aabcdadadf6be6d42-0-c918d8a2c208970b6b7323ca29188fba"
             }
         ]
     },
@@ -35,7 +35,7 @@
         "video_link": [
             {
                 "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1746989100-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092769-1c109962d539497199790b19bc85bee5-0-696fd4bd334ba29a0142af99bfc2b24a"
+                "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1746989100-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747096818-44a5761f1e664702b133f3565ce26649-0-3d2dc870de7d97dde7895842fc67a94b"
             }
         ]
     },
@@ -55,7 +55,7 @@
         "video_link": [
             {
                 "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn5-1746984600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092770-623ce189f57840f387ccd1749fa23b15-0-b2e83810fcceabc88efc7bdb357c6986"
+                "url": "https://vod.starxcdn.xyz/vod/espn5-1746984600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747096819-8dc335b9fda24806a66ca89c55895037-0-78c03d59a598411c96e60455eacb0fce"
             }
         ]
     },
@@ -75,7 +75,7 @@
         "video_link": [
             {
                 "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn4-1746981000-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092771-48124efe55bb4a9389d74e455fe3f308-0-01ff43e95c2641ccde5063edb8cfbc07"
+                "url": "https://vod.starxcdn.xyz/vod/espn4-1746981000-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747096820-080cf6ee93f54058b91a59bbd80fc047-0-aecc599c5941db6c05ea66276eb15dfd"
             }
         ]
     },
@@ -95,7 +95,7 @@
         "video_link": [
             {
                 "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1746979200-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092772-a089d58c15bc4afdafc148bb281f9a07-0-cb6756b420d926a215cace91cb049eaa"
+                "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1746979200-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747096820-4e66df1aa8bf4ee0b16d6a26a7b2c07a-0-a3522bf792e14a5e2191067f23f2d08d"
             }
         ]
     },
@@ -115,7 +115,7 @@
         "video_link": [
             {
                 "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn3-1746977400-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092773-d96fe964e8bb42e7a0740b52534dab10-0-f2e2893bc80abdf92fd732dcae15282b"
+                "url": "https://vod.starxcdn.xyz/vod/espn3-1746977400-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747096821-0399714032c048afb7e7a05c10e27a49-0-69b8cb05e98384a033a6954f880d19e7"
             }
         ]
     },
@@ -132,12 +132,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/42.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_liv-1746977400-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092774-d22017c2bcda44fd80695fb83e439150-0-898f65f46972eece1b0b9440991d2ef4"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "14:15",
@@ -152,12 +147,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/541.png",
             "score": "3"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn2-1746972900-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092775-c4cac6674c674b589421ca27101e9d60-0-bd2059f90d71e4c97910dc6867fa38b3"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "13:30",
@@ -172,12 +162,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/165.png",
             "score": "4"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn1-1746970200-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092775-194384de7b14489bab10d0d58b23307a-0-87e963174d8036be73137bfd29f2fccf"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "13:15",
@@ -192,12 +177,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/48.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_mun-1746969300-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092776-098252f8c2e9446ca53e4bf2781b7262-0-a36193a009531771f80ab740bba93dcc"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "13:15",
@@ -212,12 +192,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/52.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_tot-1746969300-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092777-2f5d1e6344e4465eb953d6d04c197cc3-0-b0823d76f67dd1c0643abb55ba28ff57"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "13:15",
@@ -232,12 +207,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/46.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1746969300-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092778-4c6a315ff4584f6cae71c864826ec21d-0-a6829148a98d9f06fc1b6a7dc0d2b5db"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "13:00",
@@ -252,12 +222,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/867.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount2-1746968400-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092779-64dd16d284a7480fa990a785a95f7a68-0-b1ec5b24abd3adf15fceb664f323a90e"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "11:00",
@@ -272,12 +237,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/49.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_new-1746961200-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092780-b1fe9e5a37b34b37be37303b6431c91f-0-88e95b1e734c922349ed15562aa7da47"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "10:30",
@@ -292,12 +252,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/1579.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount1-1746959400-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092781-6877487683ce49b5a9b19520e847e8eb-0-d8def89dcf53b343faaefbe5c4e5aed8"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -312,12 +267,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/548.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1746903600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092782-e1c5ec5a54be41d3953d8ed818960a7c-0-96932909d4f43ab43302913cf6e11196"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "18:45",
@@ -332,12 +282,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/523.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount3-1746902700-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092783-3cc01238815b470197392d66c10674f6-0-e41ec8a96ce85e0c1ec9e8297559854b"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "16:30",
@@ -352,12 +297,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/720.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn7-1746894600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092784-5f3ad9e692c84afa83413b2aa084af7e-0-ffa0daca8e04e4eea24775bbd1b11958"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "16:30",
@@ -372,12 +312,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/163.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn8-1746894600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092785-fd967ec11fe24249a4e260a0e0749aa4-0-bb5b0e3a21b0270b6c59fe97ec558a20"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "16:30",
@@ -392,12 +327,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/533.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn6-1746894600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092786-4b89e7aebbcf43b0bae1471141d52b26-0-188469d794ced1709a98fd2d76a033c8"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "16:30",
@@ -412,12 +342,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/66.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_bou-1746894600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092786-710ba230614041b5934088fbc902bed2-0-59ffbea0c7e405cd931612d8ff07c55c"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "16:00",
@@ -432,12 +357,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/496.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount2-1746892800-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092788-70f3ef05dcdb407d83aae5bcfb718dad-0-3780f892d69331046e1ebf8a6279a76a"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "14:15",
@@ -452,12 +372,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/536.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn5-1746886500-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092788-a955ad27b0b74724ad1e9847b4705c82-0-31d141f9795561e6f3d6a1180a2d9564"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "14:00",
@@ -472,12 +387,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/51.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_wol-1746885600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092789-a53862b513594144ac1afebaf559e565-0-f0d8ada3dff88beea505a7462a7457a2"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "14:00",
@@ -492,12 +402,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/50.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_sou-1746885600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092790-92fca8510f634a14a1400ccf6626f1e3-0-5f6d3d2c64c119263e4bfbe33cda616f"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "14:00",
@@ -512,12 +417,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/45.png",
             "score": "3"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_ful-1746885600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092791-fc153113d2e147868d7c0c17a90a5446-0-ae0c31598e4057ce77cba1bbd3f96660"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "14:00",
@@ -532,12 +432,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/55.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_ips-1746885600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092792-6e5d099cfbec4c9f96c2ce3d880e2164-0-2b94ef387081d9649ab09f557959cd76"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -552,12 +447,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/728.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn1-1746817200-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092793-a721dee9b38846b6aa6e959397f0c2e4-0-12a78926917e8fcd73d7f6b5dd2b1e2e"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "18:45",
@@ -572,12 +462,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/500.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount1-1746816300-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092794-cf20747aabc24b6690c2a788a1de1a21-0-6521977855b534d7fa23d7736a9f8666"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "18:30",
@@ -592,12 +477,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/167.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn0-1746815400-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092795-e191037335214619ad559d44428e2f96-0-bef918c17485b53aca222f140add2547"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -612,12 +492,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/543.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount4-1746730800-10800.mp4/index.m3u8?auth_key=1747092796-6f01eaa7ab234bc4b4e1b71a83b1d9ee-0-a4b0b5fa91d283921609cb9d465ed850"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -632,12 +507,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/531.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount1-1746730800-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092797-b75d97797fa64c3b9f94f67f83893ae6-0-afa181d901f1b5babe8af2c3b117eddc"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -652,12 +522,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/47.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount2-1746730800-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092798-57c4d9c1d3a042e7b94a39e19f67a58c-0-d60c7d6a434ceaa7dcfd440f9daf7aa6"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -672,12 +537,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/364.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount3-1746730800-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092799-9cea9444cd5c46509f9bdc2bcc125d55-0-9405d3b44cc3793ee68af4994feb884a"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -692,12 +552,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/42.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount1-1746644400-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092800-47e5f6070a814fbd9e110c503e8c1042-0-927cadf7400e51a19e58f316a5e2ae1c"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -712,12 +567,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/529.png",
             "score": "3"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount1-1746558000-10800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092801-22bc1fa6f50b45b491f6a7bdf7c99921-0-2f310f1e1b8983455b007b482e96c658"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -732,12 +582,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/65.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_cry-1746471600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092802-3af52823dc624a88aa8b7ff01f686e0f-0-300b424a7a059dbf6d389b4909facd52"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -752,12 +597,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/798.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn0-1746471600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092803-1bbf9a42c394475ba8798297f590fd67-0-cf8cb7b2cb5a235409a32d3bbef34896"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "18:45",
@@ -772,12 +612,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/489.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount1-1746470700-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092804-6437a8b900d04f9393e0473fb236fa87-0-a0fa7737b908acbbf0084db48fbc4476"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
@@ -792,12 +627,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/531.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn6-1746385200-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092804-ca1c812eea2644b59d0d08f5a11e1a8c-0-50ca6969c7cfb7d42a65bca3c9f677bf"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "18:45",
@@ -812,12 +642,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/496.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount4-1746384300-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092805-4241625e17fe4ec98b99934a9913f300-0-06fe1d3728b8beb7a74883602161d8f0"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "17:30",
@@ -832,12 +657,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/169.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn5-1746379800-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092806-30c4a224f95345fa857a5c16ecd18346-0-24517a62c2103f2a0270a48456bbc077"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "16:30",
@@ -852,12 +672,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/543.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn4-1746376200-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092807-99cccc028bb44b4a92d8d330b22a0657-0-76efbaad509a2a218ec98c1642504cc6"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "16:00",
@@ -872,12 +687,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/502.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount3-1746374400-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092808-a3b94cbfc19c460aa4339108cb3c4678-0-af02dae0a6b6d39b02f1f4cf8fbe858b"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "15:30",
@@ -892,12 +702,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/40.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_che-1746372600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092809-e4760414dccb4c68ac18eff237916edb-0-9f3c0519337aa2ace1967e3954589b83"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "15:30",
@@ -912,12 +717,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/168.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn3-1746372600-7800.mp4/index.m3u8?auth_key=1747092810-95d6b95c96ee4c74b6fa3ddcac6abfc8-0-ba1df6ca28c03b2ee1c720f94f6fb414"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "14:15",
@@ -932,12 +732,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/537.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/espn2-1746368100-7800.mp4/index.m3u8?auth_key=1747092811-8f2ee1c4f1f34aeca06f8b8c5d7bf276-0-941fef190ffab740c8727bc72b8c3d0a"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "13:00",
@@ -952,12 +747,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/499.png",
             "score": "4"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/paramount2-1746363600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092812-e640c95308e44b8f859838bdcacfcd60-0-15a30b0802f8fe4e69e1d2da33bf0989"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "13:00",
@@ -972,12 +762,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/34.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_bra-1746363600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092813-51530183c7534c91a138d1865cc8ac83-0-f0ab42e7e9b26df55cae460b9319a29c"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "13:00",
@@ -992,11 +777,6 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/33.png",
             "score": "3"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vod.starxcdn.xyz/vod/epl_bre-1746363600-7800.mp4/tracks-v1a1/mono.m3u8?auth_key=1747092814-3527a0fbfa08489388d522b94534bf85-0-262abd5ba3ca40b8d03ac7d9681b7c48"
-            }
-        ]
+        "video_link": []
     }
 ]
