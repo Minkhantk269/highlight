@@ -1,20 +1,5 @@
 [
     {
-        "time": "16:30",
-        "league": "Premiership Rugby",
-        "home_team": {
-            "name": "Bath",
-            "logo": "https://media-sport.b-cdn.net/rugby/teams/58.png",
-            "score": null
-        },
-        "away_team": {
-            "name": "Leicester Tigers",
-            "logo": "https://media-sport.b-cdn.net/rugby/teams/63.png",
-            "score": null
-        },
-        "video_link": []
-    },
-    {
         "time": "19:15",
         "league": "Premier League",
         "home_team": {
@@ -30,7 +15,7 @@
         "video_link": [
             {
                 "name": "Replay",
-                "url": "https://vwyn3lxe5fv5.cdn-centaurus.com/hls2/01/10336/y511ocrwc0r1_n/master.m3u8?t=5ji2FfbGOrk97zWdOI25SFlpPrePySZhM0qN3X2vDUU&s=1747478110&e=129600&f=51683420&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=18403&auth_key=1747581365-9f1c851f92e645f68c6a72f52a9366ae-0-d446c85958b3efd840dd05b75259d609"
+                "url": "https://vwyn3lxe5fv5.cdn-centaurus.com/hls2/01/10336/y511ocrwc0r1_n/master.m3u8?t=5ji2FfbGOrk97zWdOI25SFlpPrePySZhM0qN3X2vDUU&s=1747478110&e=129600&f=51683420&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=18403&auth_key=1747584669-67ee5b497a6044319ec1cd32237f16c2-0-436cf32ae7f0f38919d6ca403f3f773d"
             }
         ]
     }
