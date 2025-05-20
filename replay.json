@@ -12,12 +12,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/494.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://hl.zone21-gx.store/hl/rp/ParmaNapoli1747674055/index-v1-a1.m3u8?auth_key=1747733017-fe5bc9047e12486f964cf8ee9e1b54bf-0-3dad516765aa88bdce6ec256490a47dc"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:15",
@@ -32,11 +27,6 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/33.png",
             "score": "0"
         },
-        "video_link": [
-            {
-                "name": "Replay",
-                "url": "https://vwyn3lxe5fv5.cdn-centaurus.com/hls2/01/10336/y511ocrwc0r1_n/master.m3u8?t=5ji2FfbGOrk97zWdOI25SFlpPrePySZhM0qN3X2vDUU&s=1747478110&e=129600&f=51683420&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=18403&auth_key=1747733018-aa015c26bc72426798b2182bf7e764d1-0-52cb27712bf3a1297c6608fa2f863e2c"
-            }
-        ]
+        "video_link": []
     }
 ]
