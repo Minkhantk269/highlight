@@ -15,7 +15,7 @@
         "video_link": [
             {
                 "name": "Replay",
-                "url": "https://hl.zone21-gx.store/hl/rp/PSGReims1748160918/index-v1-a1.m3u8?auth_key=1748175570-4d7a1e84a6b847fb895f81929c8081d6-0-3ac95913bf17285283866fc51410c60f"
+                "url": "https://hl.zone21-gx.store/hl/rp/PSGReims1748160918/index-v1-a1.m3u8?auth_key=1748178870-165e07f0547c4313a18c44632bedfd33-0-cdd9d2dac914fd7eaa29a812e706341e"
             }
         ]
     },
@@ -32,7 +32,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/1579.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Replay",
+                "url": "https://hl.zone21-gx.store/hl/rp/ACMilanMonza1748160923/index-v1-a1.m3u8?auth_key=1748178871-f78626d204564c5a8c1654f3ba59216b-0-a9f870e5ab40d0ef19790467ce9a8b5a"
+            }
+        ]
     },
     {
         "time": "14:15",
@@ -47,7 +52,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/548.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Replay",
+                "url": "https://hl.zone21-gx.store/hl/rp/RealMadridRealSociedad1748160933/index-v1-a1.m3u8?auth_key=1748178872-c5beb21559d74ed7b210941bae7b9927-0-cc025bcec6839f9187013836e60deefd"
+            }
+        ]
     },
     {
         "time": "18:45",
@@ -62,7 +72,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/490.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Replay",
+                "url": "https://hl.zone21-gx.store/hl/rp/NapoliCagliari1748160939/index-v1-a1.m3u8?auth_key=1748178873-daf1be999e994419b94ebcad27a1c43a-0-7b08be89df90b797d261c215758a949a"
+            }
+        ]
     },
     {
         "time": "19:00",
@@ -77,7 +92,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/39.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Replay",
+                "url": "https://hl.zone21-gx.store/hl/rp/CrystalPalaceWolves1748160961/index-v1-a1.m3u8?auth_key=1748178875-47560d0a06944942be9e766b11ddd505-0-dafe14945fee4e2850c37b9ef1572eec"
+            }
+        ]
     },
     {
         "time": "19:00",
@@ -92,7 +112,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/35.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Replay",
+                "url": "https://hl.zone21-gx.store/hl/rp/ManchesterCityBournemouth1748160955/index-v1-a1.m3u8?auth_key=1748178876-b538c704013c45d7a0bdc18e303514ea-0-7375d747ee4734f768686ea3d1923176"
+            }
+        ]
     },
     {
         "time": "19:00",
@@ -107,7 +132,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/40.png",
             "score": "2"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Replay",
+                "url": "https://hl.zone21-gx.store/hl/rp/BrightonLiverpool1748160964/index-v1-a1.m3u8?auth_key=1748178877-1d4ef5e1459647d081b309f95105991a-0-65f3defae7d53657f7988bf1fd3b8405"
+            }
+        ]
     },
     {
         "time": "18:45",
@@ -122,7 +152,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/494.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Replay",
+                "url": "https://hl.zone21-gx.store/hl/rp/ParmaNapoli1747674055/index-v1-a1.m3u8?auth_key=1748178878-cb83df4e0e0b40e7a2643c8901b1f0d4-0-593cc85143e0345229b4d59ba4f22a3c"
+            }
+        ]
     },
     {
         "time": "19:15",
@@ -137,6 +172,11 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/33.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Replay",
+                "url": "https://vwyn3lxe5fv5.cdn-centaurus.com/hls2/01/10336/y511ocrwc0r1_n/master.m3u8?t=5ji2FfbGOrk97zWdOI25SFlpPrePySZhM0qN3X2vDUU&s=1747478110&e=129600&f=51683420&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=18403&auth_key=1748178879-7f617fe934104205b8b5d566c4502b65-0-b8f7e4864323c320385d51a1cb7011c5"
+            }
+        ]
     }
 ]
