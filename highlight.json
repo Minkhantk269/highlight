@@ -212,7 +212,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/48.png",
             "score": "3"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0525/260525/ips.mp4"
+            }
+        ]
     },
     {
         "time": "15:00",
@@ -547,7 +552,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/492.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0525/190525/par.mp4"
+            }
+        ]
     },
     {
         "time": "18:45",
