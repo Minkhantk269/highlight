@@ -252,7 +252,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/42.png",
             "score": "2"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0525/260525/sou.mp4"
+            }
+        ]
     },
     {
         "time": "15:00",
@@ -327,7 +332,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/46.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0525/260525/bou.mp4"
+            }
+        ]
     },
     {
         "time": "15:00",
@@ -522,7 +532,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/505.png",
             "score": "0"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0525/250525/int.mp4"
+            }
+        ]
     },
     {
         "time": "19:00",
@@ -957,7 +972,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/182.png",
             "score": "2"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0525/190525/fca.mp4"
+            }
+        ]
     },
     {
         "time": "13:30",
