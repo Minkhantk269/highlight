@@ -632,12 +632,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/40.png",
             "score": "2"
         },
-        "video_link": [
-            {
-                "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0525/200525/liv.mp4"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "18:45",
