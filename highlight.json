@@ -32,12 +32,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/968.png",
             "score": "1"
         },
-        "video_link": [
-            {
-                "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0625/230625/juv.mp4"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
