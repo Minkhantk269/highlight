@@ -752,7 +752,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/55.png",
             "score": "1"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0525/260525/wol.mp4"
+            }
+        ]
     },
     {
         "time": "15:00",
