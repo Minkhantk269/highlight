@@ -92,12 +92,7 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/49.png",
             "score": "3"
         },
-        "video_link": [
-            {
-                "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0625/240625/che.mp4"
-            }
-        ]
+        "video_link": []
     },
     {
         "time": "19:00",
