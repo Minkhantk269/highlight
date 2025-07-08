@@ -962,7 +962,12 @@
             "logo": "https://media-sport.b-cdn.net/football/teams/867.png",
             "score": "1"
         },
-        "video_link": []
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0525/250525/laz.mp4"
+            }
+        ]
     },
     {
         "time": "18:45",
