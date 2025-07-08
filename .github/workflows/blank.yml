@@ -13,7 +13,7 @@ jobs:
       - name: Call Backup API
         run: |
           echo "📡 Calling backup API..."
-          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" "https://minkhant.singapore2dmm.com/backup.php")
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" "https://minkhant.singapore2dmm.com/backup1.php")
 
           echo "🔁 Response status: $RESPONSE"
 
