@@ -1,5 +1,25 @@
 [
     {
+        "time": "19:00",
+        "league": "FIFA Club World Cup",
+        "home_team": {
+            "name": "Fluminense",
+            "logo": "https://media-sport.b-cdn.net/football/teams/124.png",
+            "score": "0"
+        },
+        "away_team": {
+            "name": "Chelsea",
+            "logo": "https://media-sport.b-cdn.net/football/teams/49.png",
+            "score": "2"
+        },
+        "video_link": [
+            {
+                "name": "Highlight",
+                "url": "https://hl.zone21-gx.store/hl/0725/090725/flu.mp4"
+            }
+        ]
+    },
+    {
         "time": "20:00",
         "league": "FIFA Club World Cup",
         "home_team": {
@@ -966,26 +986,6 @@
             {
                 "name": "Highlight",
                 "url": "https://hl.zone21-gx.store/hl/0525/250525/laz.mp4"
-            }
-        ]
-    },
-    {
-        "time": "18:45",
-        "league": "Serie A",
-        "home_team": {
-            "name": "Venezia",
-            "logo": "https://media-sport.b-cdn.net/football/teams/517.png",
-            "score": "2"
-        },
-        "away_team": {
-            "name": "Juventus",
-            "logo": "https://media-sport.b-cdn.net/football/teams/496.png",
-            "score": "3"
-        },
-        "video_link": [
-            {
-                "name": "Highlight",
-                "url": "https://hl.zone21-gx.store/hl/0525/250525/juv.mp4"
             }
         ]
     }
